@@ -1,5 +1,5 @@
 # WE MOVED!!
-The main repo has moved to https://github.com/dental-integrators-association
+The main repo has moved to https://github.com/dental-integrators-association/diadocs
 
 # What is the DIA?
 ## We'll leave Dentistry to you. Leave the IT to us.
