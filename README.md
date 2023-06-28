@@ -1,3 +1,6 @@
+# WE MOVED!!
+The main repo has moved to https://github.com/dental-integrators-association
+
 # What is the DIA?
 ## We'll leave Dentistry to you. Leave the IT to us.
 The DIA is a network of leading independent dental technology integration firms from across the country.  It was formed to create and deliver a higher standard of quality and care for dental practice technology integration.
